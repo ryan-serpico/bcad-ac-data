@@ -1,0 +1,23 @@
+# Folders
+venv/
+output/
+data/
+
+# Files
+address.py
+app.py
+bcad_example.py
+old_address.py
+playground.py
+
+# Jupyter Notebooks
+data-test.ipynb
+notebook.ipynb
+pivot_practice.ipynb
+
+
+notes.md
+.DS_Store
+
+
+
